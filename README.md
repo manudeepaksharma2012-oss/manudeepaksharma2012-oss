@@ -1,7 +1,7 @@
 # Hi there, I'm Keshav Sharma! 👋
-### Open-Source Contributor & Developer
+### Full-Stack Developer & Ethical Hacker
 
-I am a passionate developer focused on building clean, efficient, and impactful software. I love contributing to the open-source community and exploring new technologies.
+I am a passionate developer and open-source contributor focused on building secure web applications, mobile platforms, and exploring cybersecurity boundaries.
 
 ---
 
@@ -9,27 +9,39 @@ I am a passionate developer focused on building clean, efficient, and impactful 
 
 - 🏢 **Organization:** Code Finery Productions
 - 📍 **Location:** Linares, Nuevo León, México
-- ⚡ **Fun Fact:** I believe open-source collaboration makes the tech world a better place.
+- ⚡ **Focus:** Combining development power with cybersecurity to build safe, scalable software.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-Aapki skills aur programming languages (Yeh hamesha dikhengi):
+#### 🌐 Web Development (Backend & Frontend)
+- **Frameworks:** Django, Flask
+- **Core Languages:** Python, JavaScript, HTML5, CSS3
 
-- 💻 **Programming Languages:** Python, JavaScript, HTML5, CSS3
-- 🔧 **Version Control:** Git, GitHub, GitHub Actions
-- ☁️ **Hosting & Deployment:** Vercel, GitHub Pages
+#### 📱 Mobile Development
+- **Platform:** Android Development (Java / Kotlin)
+
+#### 🛡️ Cybersecurity
+- **Specialty:** Ethical Hacking, Web Application Security, Penetration Testing
+
+#### 🔧 Tools & Devops
+- **Version Control:** Git, GitHub
+- **Deployment:** Vercel, GitHub Pages
 
 ---
 
-### 📊 GitHub Projects
+### 🛡️ Ethical Hacking & Security Focus
 
-Aap apne best projects ko apne GitHub Profile par upar hi **"Pin"** kar sakte hain taaki log unhe seedhe dekh sakein!
+I utilize my hacking skills strictly for defensive purposes, including:
+- Penetration testing of Python-based web frameworks (Django/Flask).
+- Auditing Android source code for security vulnerabilities.
+- Securing open-source repositories against common exploits.
 
 ---
 
 ### 🤝 Connect with Me
 
 - 🌐 Visit my GitHub organization: **Code Finery Productions**
-- 💬 Ask me about: Open-source workflows, documentation, and repository management.
+- 💬 Ask me about: Secure coding, application development, and open-source management.
+- 📧 **Email Me:** [manudeepaksharma2012@gmail.com](mailto:manudeepaksharma2012@gmail.com)
